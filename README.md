@@ -4,4 +4,4 @@
 4. Ciclul repetitiv "while": https://onlinegdb.com/9ax4_TQsN
 5. Joculet "Ghiceste numarul": https://onlinegdb.com/7oYfqCrNz
 
-Joculet rezolvat: https://www.onlinegdb.com/fork/7oYfqCrNz
+Joculet rezolvat: https://onlinegdb.com/swYvDIcWd
