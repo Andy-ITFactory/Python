@@ -5,7 +5,7 @@ Rock paper scissors game
 4. Introducere de date: https://onlinegdb.com/6SbiTlCIN
 5. Conditionalul if else: https://onlinegdb.com/IXYDmo6oO
 6. Instructiuni joc (completam impreuna codul): https://onlinegdb.com/NhqdpO84x
-7. Joc Rezolvat: https://onlinegdb.com/iTbKLq-wb
+7. Joc Rezolvat: https://onlinegdb.com/8hm_k0qoi
 
 Guess the number game
 1. Dupa ce deschideti linkul intr-un tab nou, apasati "Fork this" ca sa puteti edita codul. 
