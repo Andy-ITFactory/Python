@@ -1,3 +1,10 @@
+Magic 8 Ball
+1. Dupa ce deschideti linkul intr-un tab nou, apasati "Fork" ca sa puteti edita codul. Apoi "Run" ca sa executati codul
+2. Variabila, String, Print: https://onlinegdb.com/2UZASLgNf
+3. Citim date de la tastatura: https://www.onlinegdb.com/6SbiTlCIN
+4. Instructiuni joc (completam impreuna codul): https://onlinegdb.com/8OaflHj2I9
+5. Joc rezolvat: https://onlinegdb.com/qOS-1-_lz 
+
 Rock paper scissors game
 1. Dupa ce deschideti linkul intr-un tab nou, apasati "Fork" ca sa puteti edita codul. Apoi "Run" ca sa executati codul
 2. Variabile, tipuri de date, print: https://onlinegdb.com/RD3Cv7DzB
